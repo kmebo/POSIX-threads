@@ -36,7 +36,8 @@ issues.
 To run this code (*1):
 1. gcc main.c -o main -lpthread
 2. ./main X
-\n where X is the number of threads. In this programs, it represents the number of clerks; it could be 1, 2, 3, ...
+
+where X is the number of threads. In this programs, it represents the number of clerks; it could be 1, 2, 3, ...
 
 For any question, please send me a LinkedIn message at https://www.linkedin.com/in/kevin-mejia-bonilla/!
 
